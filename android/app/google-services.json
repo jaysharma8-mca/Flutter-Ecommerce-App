@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1098482154982",
+    "firebase_url": "https://ecommerce-7bb37.firebaseio.com",
+    "project_id": "ecommerce-7bb37",
+    "storage_bucket": "ecommerce-7bb37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098482154982:android:9030a1de4130ca7c2aaa27",
+        "android_client_info": {
+          "package_name": "com.jigar.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098482154982-48gvvrk26l1l5nboad46ur3r0srtqj54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMcwmszgSSQO0ahG-yL1n3nrk6Olp-wv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098482154982-48gvvrk26l1l5nboad46ur3r0srtqj54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
